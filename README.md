@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/lms.git
+git clone https://github.com/rounakrishna/lms.git
 cd lms
 Create a virtual environment and activate it:
 
